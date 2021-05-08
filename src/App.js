@@ -5,7 +5,6 @@ import Login from './components/Login';
 import Home from './components/Home';
 import Header from './components/Header';
 import Detail from './components/Detail';
-
 import { Counter } from './features/counter/Counter';
 
 import './App.css';
